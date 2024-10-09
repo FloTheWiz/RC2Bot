@@ -1,0 +1,28 @@
+# Bot configuration
+prefix: ""
+token: "Your token here!"
+github_url: ""
+
+# A list of cogs to load at startup
+# These are found in /cogs/
+cogs:
+  - robocraft
+  - info
+
+# API configuration
+api_url: "https://api.whofuckingknows.com/"
+# Add routes here. 
+routes:
+  start_server: "/server/start"
+  stop_server: "/server/stop"
+  change_map: "/server/change_map"
+  server_status: "/server/status"
+
+# Mod IDs (for permissions)
+# Replicate if you want admins, gamemasters, etc. 
+# see utils.py for details
+mods:
+  - "123456789012345678"
+  - "987654321098765432"
+    
+       
