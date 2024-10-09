@@ -14,4 +14,5 @@ It's also got solid foundations for Logging, Cogs, a YAML config, Mod Roles and 
 ## Installation 
 - Obtain the code, fork via git, download, doesn't matter
 - Install requirements with `pip install requirements.txt`
+- paste discord bot token in `config.yaml`
 - run with `python main.py`
