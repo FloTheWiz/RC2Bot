@@ -3,7 +3,7 @@
   <h1>RC2bot</h1>
   <h2>For Lack of a better name edition</h2>
 
-  <a href="https://github.com/SneetSnart420/RESTbot//"><strong>Install</strong></a>
+  <a href="https://github.com/SneetSnart420/RC2bot//"><strong>Install</strong></a>
 </div>
 <br/>
 
